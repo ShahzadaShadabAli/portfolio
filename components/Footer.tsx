@@ -2,7 +2,6 @@ import React from 'react'
 import MagicButton from './MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
 import { socialMedia } from '@/data'
-import { div } from 'framer-motion/client'
 
 const Footer = () => {
   return (
@@ -11,7 +10,7 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className='heading lg:max-w-[45vw]'>Ready to take <span className='text-purple'>your</span> digital presence to the next level?</h1>
-        <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let's discuss how I can help you achieve your goals.</p>
+        <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let&apos;s discuss how I can help you achieve your goals.</p>
         <a href="maito:shadabshahzada8@gmail.com">
             <MagicButton title={"Let's get in touch"}
             icon={<FaLocationArrow />} 
