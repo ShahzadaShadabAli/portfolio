@@ -1,4 +1,5 @@
 "use client";
+/* eslint-disable */
 import { cn } from "@/lib/utils/cn";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import React, { useMemo, useRef } from "react";

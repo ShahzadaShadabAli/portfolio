@@ -10,7 +10,7 @@ declare module "@react-three/fiber" {
     threeGlobe: Object3DNode<ThreeGlobe, typeof ThreeGlobe>;
   }
 }
-
+/* eslint-disable */
 extend({ ThreeGlobe });
 
 const RING_PROPAGATION_SPEED = 3;

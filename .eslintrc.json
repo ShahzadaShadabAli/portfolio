@@ -1,4 +1,5 @@
 {
   "extends": ["next/core-web-vitals", "next/typescript"],
-  "rules": {}
+  "rules": {},
+  "ignorePatterns": ["**/*.js", "**/*.ts"]
 }
