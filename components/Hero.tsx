@@ -25,7 +25,7 @@ const Hero = () => {
 
                 <p className="text-center text-white md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl mt-4">
                     Hi, I'm Shadab,
-                    a Next.js Developer Based in Germany.
+                    a Next.js Developer Based in Pakistan.
                 </p>
 
                 <a href="#about">
